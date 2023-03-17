@@ -1,0 +1,1 @@
+"myCamelCaseString".split(/(?=[A-Z])/).map(s => s.toLowerCase());
